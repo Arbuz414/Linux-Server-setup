@@ -13,6 +13,7 @@
 
 ## Что сделал
 
+- [Создал нового пользователя и выдал ему права root](images/systemuser.png)
 - [Настроил SSH-доступ по ключам и запретил удаленный доступ по root](images/ssh.png)
 - [Настроил UFW](images/ufw.png)
 - [Настроил Nginx](images/nginx.png)
