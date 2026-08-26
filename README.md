@@ -16,7 +16,7 @@
 - [Настроил SSH-доступ по ключам и запретил удаленный доступ по root](images/ssh.png)
 - [Настроил UFW](images/ufw.png)
 - [Настроил Nginx](images/nginx.png)
-- [Подключил SSL-сертификат](images/nginxssl.png)
+- [Подключил SSL-сертификат](images/https.png)
 - [Настроил DNS](images/dns.png)
 
 ## Результат
