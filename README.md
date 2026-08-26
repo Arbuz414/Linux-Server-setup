@@ -1,4 +1,4 @@
-# Linux VPS Setup
+# Linux Server Setup
 
 Развёртывание и базовая защита Linux VPS.
 
